@@ -15,7 +15,7 @@ const pessoa = {
     idade: 23
 }
 
-// Utilizando spread operator para expandir os elementos de um objeto
+// Utilizando spread operator para expandir os elementos de um objeto e adicionando nova propriedade
 
 const pessoaClone = {...pessoa, sobrenome: "Cecilio"};
 

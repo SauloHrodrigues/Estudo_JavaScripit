@@ -1,4 +1,5 @@
 // desestruturação de objetos
+
 // A desestruturação de objetos acontece a partir do nome da propriedade. Ou seja, para obter o valor de uma propriedade é necessário passar exatamente o nome dela dentro de {}
 const aluno = {
     nome: 'Pedro',
