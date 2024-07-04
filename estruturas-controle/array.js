@@ -1,13 +1,16 @@
 
 const numeros = [1, 2, 3, 4, 5]
 
+
+
+// Métodos de array
+
 // Adicionar elemento em um array
 numeros.push(6)
 
-// Método de array
 // Criar novo array com novos dados a partir de outro array.
 const dobro = numeros.map((n)=>{
-    return n;
+    return n * 2;
 })
 
 // Retorna um novo array com elementos que passarem na condicional

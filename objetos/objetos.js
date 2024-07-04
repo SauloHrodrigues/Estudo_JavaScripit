@@ -9,3 +9,5 @@ const aluno = {
 console.log(aluno.nome) // Pedro
 console.log(aluno["nome"]) // Pedro
 
+
+
